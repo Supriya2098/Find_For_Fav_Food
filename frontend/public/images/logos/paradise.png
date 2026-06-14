@@ -1,0 +1,1281 @@
+<!doctype html>
+<html><head>
+<!-- Google Tag Manager -->
+
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+
+})(window,document,'script','dataLayer','GTM-KVS92NL');</script>
+
+<!-- End Google Tag Manager -->
+<meta name="google-site-verification" content="HW_pcuHndpVzMqqRVdHO57c8XqFKujJuDHXGYeYBp6w" />
+<link rel="icon" type="image/png" href="images/favicon.png" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<meta charset="utf-8" />
+<meta name="robots" content="all" />
+<meta name="robots" content="index,follow" />
+<meta name="robots" content="NOODP,NOYDIR" />
+<meta name="GOOGLEBOT" content="index,follow" />
+<title>Best Biryani Restaurants in Hyderabad | Paradise food court</title>
+<meta name="description" content="Paradise Food Court in Hyderabad is known for serving world-famous Hyderabadi Biryani and other authentic local delicacies in a premium dining experience." />
+<meta name="keywords" content="Biryani Restaurants in Hyderabad, Hyderabadi biryani, Biryani, Dum Biryani, Hyderabad Biryani, Biryani in Hyderabad, Restaurants in Hyderabad, Hotels in Hyderabad, Bakeries in Hyderabad, Best restaurants in Hyderabad, Hyderabad Restaurants . " />
+<link rel="canonical" href="https://www.paradisefoodcourt.in" />
+
+<link href="css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+<!--<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap-theme.min.css">-->
+<link href="css/style.css" rel="stylesheet" type="text/css" />
+
+<link rel="stylesheet" href="css/superslides.css" type="text/css" />
+<link href="css/bootstrap-select.min.css" rel="stylesheet" type="text/css" />
+
+<link href="//fonts.googleapis.com/css?family=Signika" rel="stylesheet" type="text/css" />
+<!-- font-family: 'Signika', sans-serif; -->
+<link href="//fonts.googleapis.com/css?family=Open+Sans+Condensed:300" rel="stylesheet" type="text/css" />
+<!-- font-family: 'Open Sans Condensed', sans-serif; -->
+<link href="//fonts.googleapis.com/css?family=PT+Sans" rel="stylesheet" type="text/css" />
+<!-- font-family: 'PT Sans', sans-serif; -->
+<link href="//fonts.googleapis.com/css?family=Oswald" rel="stylesheet" type="text/css">
+<!-- font-family: 'Oswald', sans-serif; -->
+
+<script src="js/jquery.js" type="text/javascript"></script>
+<script src="js/bootstrap.min.js" type="text/javascript"></script>
+<script src="js/bootstrap-select.js" type="text/javascript"></script>
+<script src="js/load.js" type="text/javascript"></script>
+<script src="js/banner/jquery.bxslider.js"></script>
+<script src="js/jquery.jscroll.js"></script>
+<script type="text/javascript">
+	$().ready(function() {
+		$(".enqbtn").jScroll();
+	});
+</script>
+
+<link rel="stylesheet" type="text/css" href="css/style3.css" />
+<script type="text/javascript" src="js/modernizr.custom.86080.js"></script>
+<script type="text/javascript">
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-99583665-1', 'auto');
+  ga('send', 'pageview');
+</script>
+
+<script type="text/javascript">
+	$().ready(function() {
+		$(".enqbtn").jScroll();
+	});
+</script>
+<script type="text/javascript">
+ $(document).ready(function(){
+	var url = "https://www.youtube.com/embed/nMxBximWIKo?autoplay=1;rel=0&amp;";
+	$(window).load(function(){
+       setTimeout(
+	   	function(){
+			//$('#journalModal').modal('show');
+			$("#popVideo").attr('src', url);
+		},1000
+	   )
+    });
+    $("#journalModal").on('hide.bs.modal', function(){
+        $("#popVideo").attr('src', '');
+    });
+});
+</script>
+<style>
+@media (min-width: 980px) {
+    .container {
+        max-width: 1240px !important;
+    }
+}
+    
+    @media (resolution: 150dpi) {
+
+}
+.offer_pop .google_map_wrap_animin{
+	padding: 0 !important;
+}
+.offer_pop .google_map_wrap{
+	//position:relative;
+}
+.offer_pop .google_map_wrap {
+    top: 20% !important;
+    height: auto !important;
+    left: 0 !important;
+    right: 0 !important;
+    width: 90% !important;
+	position:relative !important;
+}
+
+
+
+.video-play-button {
+    position: absolute;
+    z-index: 10;
+    bottom: 4%;
+    right: 0%;
+    transform: translateX(-50%) translateY(-50%);
+    box-sizing: content-box;
+    display: block;
+    width: 17px;
+    height: 17px;
+    /* background: #fa183d; */
+    border-radius: 50%;
+    padding: 15px 10px 18px 24px;
+}
+
+.video-play-button:before {
+    content: "";
+    position: absolute;
+    z-index: 0;
+    left: 55%;
+    top: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    display: block;
+    width: 70px;
+    height: 70px;
+    background: #f06918;
+    border-radius: 50%;
+    animation: pulse-border 1500ms ease-out infinite;
+}
+
+.video-play-button:after {
+    content: "";
+    position: absolute;
+    z-index: 1;
+    left: 55%;
+    top: 48%;
+    transform: translateX(-50%) translateY(-50%);
+    display: block;
+    width: 52px;
+    height: 52px;
+    background: #f06918;
+    border-radius: 50%;
+    transition: all 200ms;
+}
+
+.video-play-button:hover:after {
+  background-color: darken(#f06918, 10%);
+}
+
+.video-play-button img {
+  position: relative;
+  z-index: 3;
+  max-width: 100%;
+  width: auto;
+  height: auto;
+}
+
+.video-play-button span {
+    display: block;
+    position: relative;
+    z-index: 3;
+    width: 0px;
+    height: 0;
+    border-left: 14px solid #fff;
+    border-top: 9px solid transparent;
+    border-bottom: 9px solid transparent;
+}
+
+@keyframes pulse-border {
+  0% {
+    transform: translateX(-50%) translateY(-50%) translateZ(0) scale(1);
+    opacity: 1;
+  }
+  100% {
+    transform: translateX(-50%) translateY(-50%) translateZ(0) scale(1.5);
+    opacity: 0;
+  }
+}
+
+
+
+.video-overlay {
+  position: fixed;
+  z-index: -1;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: rgba(0,0,0,0.80);
+  opacity: 0;
+  transition: all ease 500ms;
+}
+
+.video-overlay.open {
+  position: fixed;
+  z-index: 1000;
+  opacity: 1;
+}
+
+.video-overlay-close {
+  position: absolute;
+  z-index: 1000;
+  top: 15px;
+  right: 20px;
+  font-size: 36px;
+  line-height: 1;
+  font-weight: 400;
+  color: #fff;
+  text-decoration: none;
+  cursor: pointer;
+  transition: all 200ms;
+}
+
+.video-overlay-close:hover {
+  color: #fa183d;
+}
+
+.video-overlay iframe {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translateX(-50%) translateY(-50%);
+  /* width: 90%; */
+  /* height: auto; */
+  box-shadow: 0 0 15px rgba(0,0,0,0.75);
+}
+
+
+/** Banner custom css **/
+
+
+@media only screen and (max-width: 768px) {
+    /* For mobile phones: */
+    .desktop {
+        display: none; 
+    }
+    .mobile {
+        display: block !important;
+    }
+    .gallery li a img {
+        height: 100px !important;
+    }
+    .image_map{
+        left: 55.2% !important;
+        top: 88.8% !important;
+        width: 38.5% !important;
+        height: 4.5% !important;
+        border-radius: 10px !important;
+    }
+    .banner{
+        margin-top:25% !important;
+    }
+	}
+    .gallery li a img{
+        height: 140px;
+        width:300px;
+    }
+    .image_map{
+        position: absolute;
+    left: 72.3%;
+    top: 70%;
+    width: 20.5%;
+    height: 13.8%;
+    outline: none;
+    border-radius: 22px;
+    }
+	/* Effect for hover */
+	.image_map:hover {
+		border: 3px solid #ff5722;  /* Add border effect */
+		background-color: rgba(255, 87, 34, 0.3); /* Add background color on hover */
+		transition: all 0.3s ease; /* Smooth transition */
+	}
+
+	/* Effect for focus (keyboard interaction) */
+	.image_map:focus {
+		border: 3px solid #ff5722; /* Add border when focused */
+		background-color: rgba(255, 87, 34, 0.5); /* Darker background */
+		transition: all 0.3s ease;
+	}
+
+	/* Effect for active (click) */
+	.image_map:active {
+		transform: scale(0.98); /* Slightly shrink the button when clicked */
+		border-color: #e64a19; /* Darken the border */
+	}
+
+    /** image2 **/
+    @media only screen and (max-width: 768px) {
+    .image_map1{
+        left: 33.4% !important;
+        top: 90.8% !important;
+        width: 33.4% !important;
+        height: 3.7% !important;
+    }
+    }
+    .image_map1{
+        position: absolute;
+        left: 70.4%;
+        top: 82.1%;
+        width: 11.4%;
+        height: 8.2%;
+        outline: none;
+        border-radius: 35px;
+    }
+	/* Effect for hover */
+	.image_map1:hover {
+		border: 3px solid #ff5722;  /* Add border effect */
+		background-color: rgba(255, 87, 34, 0.3); /* Add background color on hover */
+		transition: all 0.3s ease; /* Smooth transition */
+	}
+
+	/* Effect for focus (keyboard interaction) */
+	.image_map1:focus {
+		border: 3px solid #ff5722; /* Add border when focused */
+		background-color: rgba(255, 87, 34, 0.5); /* Darker background */
+		transition: all 0.3s ease;
+	}
+
+	/* Effect for active (click) */
+	.image_map1:active {
+		transform: scale(0.98); /* Slightly shrink the button when clicked */
+		border-color: #e64a19; /* Darken the border */
+	}
+    /** image3 **/
+    @media only screen and (max-width: 768px) {
+    .image_map3{
+        left: 17.2% !important;
+        top: 27.3% !important;
+        width: 66.5% !important;
+        height: 4.7% !important;
+    }
+    }
+    .image_map3{
+        position: absolute;
+        left: 3.1%;
+        top: 71.3%;
+        width: 22.4%;
+        height: 9.2%;
+        outline: none;
+        border-radius: 35px;
+    }
+	/* Effect for hover */
+	.image_map3:hover {
+		border: 3px solid #ff5722;  /* Add border effect */
+		background-color: rgba(255, 87, 34, 0.3); /* Add background color on hover */
+		transition: all 0.3s ease; /* Smooth transition */
+	}
+
+	/* Effect for focus (keyboard interaction) */
+	.image_map3:focus {
+		border: 3px solid #ff5722; /* Add border when focused */
+		background-color: rgba(255, 87, 34, 0.5); /* Darker background */
+		transition: all 0.3s ease;
+	}
+
+	/* Effect for active (click) */
+	.image_map3:active {
+		transform: scale(0.98); /* Slightly shrink the button when clicked */
+		border-color: #e64a19; /* Darken the border */
+	}
+    .banner{
+        margin-top:6.6%;
+    }
+</style>
+<!-- Google tag (gtag.js) --> <script async src="https://www.googletagmanager.com/gtag/js?id=G-ZWMJ775L2K"></script> <script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-ZWMJ775L2K'); </script>
+<!-- Meta Pixel Code -->
+
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '416268147743146');
+fbq('track', 'PageView');
+</script>
+
+<noscript><img height="1" width="1" style="display:none"
+src=https://www.facebook.com/tr?id=416268147743146&ev=PageView&noscript=1
+/></noscript>
+
+<!-- End Meta Pixel Code -->
+
+<script type="text/javascript">
+    (function(c,l,a,r,i,t,y){
+        c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+        y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+    })(window, document, "clarity", "script", "o2lffdjdrr");
+</script>
+</head>
+
+<body>
+<!-- Google Tag Manager (noscript) -->
+
+<noscript><iframe src=https://www.googletagmanager.com/ns.html?id=GTM-KVS92NL
+
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+<header>
+    <div class="rows">
+        <div class="rows1">
+            <div class="container clearfix">
+                <div class="pull-left">
+                    <!-- added by Pramod -->
+                    <div style="height:30px;line-height:30px;color:#fff;">All our restaurants are <b>COMPANY OWNED.</b> We <b>DO NOT</b> have any franchisees.</div>
+                    <!-- end added by Pramod -->
+                </div>
+                <div class="pull-right">
+                
+                <ul class="pull-left top-links">
+                    <li class=""><a href="https://www.paradisefoodcourt.in/">Home</a></li>
+                    <!--li class="activelink"><a href="https://www.paradisefoodcourt.in/haleem-in-hyderabad.html">Order Haleem</a></li-->
+                    <!-- <li><a href="kebabs.html">Kebabs</a></li> -->
+                    <!--<li><a href="unlimited-biryani.html">Unlimited Biryani</a></li>-->
+                    <!--<li><a href="50-off.html">50% off</a></li>-->
+                    <li><a href="testimonials.html">Testimonials</a></li>
+                    <!--<li><a href="#">Gift Certificates </a>
+                        <ul class="">
+                            <li><a href="corporates.html">Corporates</a></li>
+                            <li><a href="retail.html">Retail</a></li>
+                            <li><a href="individual.html">Individual</a></li>
+                        </ul>
+                    </li>-->
+                    <li><a href="#">Media </a>
+                        <ul class="">
+                            <li><a href="press-releases.html">Press Releases</a></li>
+                            <!--li><a href="logos-download.html">Logos</a></li-->
+                            <li><a href="media-photos.html">Press Meet</a></li>
+                            <li><a href="media.html">News clippings</a></li>
+                            <li><a href="news-videos.html">News Videos</a></li>
+                            <li><a href="advertisements.html">Communication Collateral</a></li>
+                        </ul>
+                    </li>
+                    <li><a href="javascript:void(0)">Relationships </a>
+              <ul class="">
+                    <li><a href="opportunities.html">Opportunities</a></li>
+                    <!--<li><a href="partnership.html">Partnerships</a></li>-->
+                     <li><a href="franchise.html">Franchisees </a></li>
+               </ul>
+         </li>
+                    <li><a href="javascript:void(0)">Careers </a>
+                        <ul class="">
+                            <li><a href="work-philosophy.html">Work Philosophy</a></li>
+                            <li><a href="careers.html">Current openings</a></li>
+                            <li><a href="careers.html">Online Application Form  </a></li>
+                        </ul>
+                    </li>
+                    <li><a href="javascript:void(0)">Contact Us </a>
+                        <ul>
+                            <li><a href="enquiry-form.html">Enquiry Form</a></li>
+                            <li><a href="paradise-food-court-review.html">Feedback Form</a></li>
+                            <li><a href="contact.html">Our Locations</a></li>
+                            <li><a href="customer-care.html">Customer Care </a></li>
+                        </ul>
+                    </li>
+                </ul>
+                </div>
+                
+            </div>
+        </div>
+        <div class="container">
+        <div class="row">
+            <div class="col-sm-3 col-xs-9">
+                <a href="index.html" class="logo"><img src="images/logo1.png" alt="" /></a>
+            </div>
+            <div class="col-sm-9 col-xs-3">
+                 <img src="images/gptw-certification.jpg" alt="" style="max-width: 45px; position: absolute;margin-left: -25px;">
+                <div class="btnresp"><button class="resp-btn"><span></span><span></span><span></span></button></div>
+                <ul class="navigation">
+                    <li><a href="#" >ABOUT US</a>
+                        <div class="subs">
+                        <ul class="">
+                            <li><a href="aboutus.html">Corporate Profile </a></li>
+                            <li><a href="history.html">History </a></li>
+                            <li><a href="philosophy.html">Philosophy </a></li>
+                            <li><a href="values.html">Values </a></li>
+                            <!--<li><a href="investors.html">Investors </a></li>
+                            <li><a href="board-of-directors.html">Board of Directors </a></li>
+                            <li><a href="management.html">Management Team </a></li>-->
+                            <!--li><a href="future-plans.html">Future plans</a></li-->
+                        </ul>
+                        </div>
+                    </li>
+          <li><a class="btn_loca" style="font-size:14px; margin:0; background:none;font-family: 'Signika', sans-serif;" href="paradise_locations.html">LOCATIONS </a>
+                        <!--<div class="subs">
+                        <ul class="">
+                            <li><a href="restaurants-in-hyderabad.html">Hyderabad</a></li>
+                            <li><a href="restaurants-in-bengaluru.html">Bengaluru</a></li>
+                            <li><a href="restaurants-in-chennai.html">Chennai</a></li>
+                             <li><a href="restaurants-in-vizag.html">Vizag</a></li>
+                            <li><a href="Gurugram.html">Gurugram</a></li>
+                        </ul>
+                        </div>-->
+                    </li>
+                    
+                    <!-- <li><a href="menu.html" style="background:none;" >MENU </a></li> -->
+                    <li><a style="background:none;" href="awards.html">AWARDS </a>
+                        <!--<div class="subs">
+                        <ul class="">
+                            <li><a href="awards.html">Certificates</a></li>
+                        </ul>
+                        </div>-->
+                    </li>
+                    <li><a style="background:none;" href="food-offers-in-hyderabad.html">PROMOS</a></li>
+                    <li><a style="background:none;" href="events.html">EVENTS </a>
+                    
+                        <div class="subs">
+                        <ul class="">
+                            <!--li><a href="selfie-contest.html">Selfie Contest</a></li-->
+                        </ul>
+                        </div>
+                    </li>
+                    <li><a style="background:none;" href="selfie-contest.html">SELFIE CONTEST </a>
+                    <li><a href="#">GALLERY </a>
+                        <div class="subs dropdown-menu-right">
+                        <ul class="">
+                            <li><a href="paradise-food-images.html">Food Images</a></li>
+                            <li><a href="visitors.html">VIP Visitors</a></li>
+                            <li><a href="restaurants-in-secunderabad.html">Restaurant Images</a></li>
+                            <li><a href="videos.html">Videos</a></li>
+                        </ul>
+                        </div>
+                    </li>
+                    <form class="navbar-form" role="search" id="search" method="get" onsubmit='return redirect();' action="//www.paradisefoodcourt.in/not-found-search-results.html">
+                    <div class="input-group input-group-sm">
+                        <input type="text" class="form-control" placeholder="Search" name="q" list="keyword" id="query" columns="2" autocomplete="off" delay="1500" />
+                        <datalist id="keyword">
+                            <option value="biryani"></option><option value="secunderabad"></option><option value="hitec city"></option><option value="masab tank"></option><option value="masab tank takeaway"></option><option value="kukatpally"></option><option value="kphb"></option><option value="begumpet"></option><option value="imax"></option><option value="ntr gardens" ></option><option value="madhapur"></option><option value="bengaluru"></option><option value="indiranagar"></option><option value="frazer town"></option><option value="restaurant"></option><option value="offers"></option><option value="events"></option><option value="hyderabad menu"></option><option value="hyderabad restaurant menu"></option><option value="hyderabad dine-in menu"></option><option value="restaurant dine-in menu"></option><option value="bangalore menu"></option><option value="bengaluru restaurant menu"></option><option value="bengaluru dine-in menu"></option><option value="restaurant dine-in menu"></option><option value="hyderabad takeaway menu"></option><option value="takeaway menu hyderabad"></option><option value="takeaway hyderabad"></option><option value="hyderabad takeaway"></option><option value="bengaluru takeaway"></option><option value="bangalore takeaway menu"></option><option value="bangalore takeaway"></option><option value="ali himmati"></option><option value="ali"></option><option value="ali hemmati"></option><option value="kazim"></option><option value="kazim himmati"></option><option value="promoters"></option><option value="current openings"></option><option value="jobs"></option><option value="contact" ></option><option value="haleem"></option><option value="paradise haleem"></option><option value="restaurant in bengaluru"></option>
+                        </datalist>
+                        <div class="input-group-btn">
+                            <button class="btn btn-danger" type="submit"><i class="glyphicon glyphicon-search"></i></button>
+                        </div>
+                    </div>
+                    </form>
+                </ul>
+            </div>
+        </div>
+        </div>
+        </div>
+</header>
+<main>
+<div id="main" class="para">
+
+
+<div class="banner ">
+    
+    <div class="slides" style="position:relative;display: none;">
+        <img class="desktop" src="images/banner/banner1-web.jpg" alt="" style="width:100%;height: 85vh;
+            object-fit: fill;
+            object-position: top;">
+        <img style="display:none;width:100%;" class="mobile" src="images/banner/banner1-mob.jpg" alt="">
+    </div>
+    
+    <div class="slides" style="position:relative;display: none;">
+        <img class="desktop" src="images/banner/banner2-web.png" alt="" style="width:100%;height: 85vh;
+            object-fit: fill;
+            object-position: top;">
+        <img style="display:none;width:100%;" class="mobile" src="images/banner/banner2-mob.png" alt="">
+    </div>
+    
+    <div class="slides" style="position:relative;display: none;">
+        <img class="desktop" src="images/banner/loyalti1_web.png" alt="" style="width:100%;height: 85vh;
+            object-fit: fill;
+            object-position: top;">
+        <img style="display:none;width:100%;" class="mobile" src="images/banner/loyalti1_mob.png" alt="">
+    </div>
+
+    <!--div class="slides" style="position:relative;display: none;">
+        <img class="desktop" src="images/banner/offer.png" alt="" style="width:100%;height: 85vh;
+            object-fit: fill;
+            object-position: top;">
+        <img style="display:none;width:100%;" class="mobile" src="images/banner/offer_mob.png" alt="">
+    </div-->
+
+    <!--div class="slides" style="position:relative;display: none;">
+        <img class="desktop" src="images/banner/haleem.jpg" alt="" style="width:100%;height: 85vh;
+            object-fit: fill;
+            object-position: top;">
+        <img style="display:none;width:100%;" class="mobile" src="images/banner/haleem_mob.jpg" alt="">
+    </div-->
+
+    <!--div class="slides" style="position:relative;display: none;">
+        <img class="desktop" src="images/banner/banner2.jpg" alt="" style="width:100%;height: 85vh;
+            object-fit: fill;
+            object-position: top;">
+        <a href="#google_map" role="btn" data-toggle="modal"><div class="image_map3"></div></a>
+        <img style="display:none;width:100%;" class="mobile" src="images/banner/banner2_mob.jpg" alt="">
+    </div-->
+
+    <div class="slides" style="position:relative;display: none;">
+        <img class="desktop" src="images/banner/banner3.jpg" alt="" style="width:100%;height: 85vh;
+            object-fit: fill;
+            object-position: top;">
+        <a href="https://pfcpl-wallet.paradisefoodcourt.in/"><div class="image_map1"></div></a>
+        <img style="display:none;width:100%;" class="mobile" src="images/banner/banner3_mob.jpg" alt="">
+    </div>
+    
+    <!--div class="slides" style="position:relative;display: none;">
+        <img class="desktop" src="images/banner/banner4.png" alt="" style="width:100%;height: 85vh;
+            object-fit: fill;
+            object-position: top;">
+        <a href="https://order.paradisefoodcourt.in/link/"><div class="image_map"></div></a>
+        <img style="display:none;width:100%;" class="mobile" src="images/banner/banner4_mob.png" alt="">
+    </div-->
+    
+    <!--div class="slides" style="position:relative;display: none;">
+        <img class="desktop" src="images/banner/banner5.jpg" alt="" style="width:100%;height: 85vh;
+            object-fit: fill;
+            object-position: top;">
+        <img style="display:none;width:100%;" class="mobile" src="images/banner/banner5_mob.jpg" alt="">
+    </div-->
+    
+    <!--div class="slides" style="position:relative;display: none;">
+        <img class="desktop" src="images/banner/banner2.png" alt="" style="width:100%;height: 85vh;
+            object-fit: fill;
+            object-position: top;">
+        <img style="display:none;width:100%;" class="mobile" src="images/banner/banner2-mobile.png" alt="">
+    </div-->
+<div class="bann-top">
+    <div class="container">
+        <div class="super-cap pull-left">
+            <h1>World's Favourite Biryani</h1>
+        </div>
+    </div>
+</div>
+<div class="bann-mid">
+    <div class="container">
+        <!--div class="text-center pull-right cap-cir"><img src="images/circle1.png" alt="" /></div-->
+    </div>
+</div>
+<div class="bandiv hmbanner" style="margin-bottom: 0px;margin-left:5px;">
+    <div class="">
+        <div class="bbg">
+        	<a href="paradise_locations.html" style="color:#fff;" class="btn_loca"><i class="glyphicon glyphicon-map-marker"></i> Locations</a>
+        </div>
+        <div class="bbg second_button">
+        	<a class="delivonly">Deliveries through Paradise Biryani App, Swiggy and Zomato.</a>
+        </div>
+        <div class="bbg third_button">
+        	<a href="terms-and-conditions-paradise.html" id="pc-butn" class="delivonly">Loyalty Pass</a>
+        </div>
+	</div>
+</div>
+
+<div id="video-overlay" class="video-overlay">
+    <a class="video-overlay-close">&times;</a>
+  </div><a id="play-video" data-toggle="tooltip" data-placement="top" title="Click here to know how we make the World's Favourite Biryani" class="video-play-button" href="#">
+    <span></span>
+  </a>
+    <div id="video-overlay" class="video-overlay">
+        <a class="video-overlay-close">&times;</a>
+    </div>
+
+</div>
+
+</div>
+</main>
+<footer>
+<div class="footer">
+<div class="socialicon" style="display:block;float:left;margin-bottom: -15px;">
+<ul style="padding:0;">
+    <li><a href="https://apps.apple.com/in/app/paradise-biryani/id1525682267" id="ios" target="_blank" data-toggle="tooltip" data-placement="top" title="For Attractive Discounts Download Paradise IOS App"><img style="width:30px;" src="images/icons/app-store.png" alt="" /></a></li>
+    <li><a href="https://play.google.com/store/apps/details?id=com.paradisebiryani.foodcourt&hl=en_IN&gl=US" id="android" data-toggle="tooltip" target="_blank" data-placement="top" title="For Attractive Discounts Download Paradise Android App"><img style="width:30px;" src="images/icons/playstore.png" alt="" /></a></li>
+<!--li><a href="https://www.facebook.com/ParadiseFoodCourt" target="_blank" data-toggle="tooltip" data-placement="left" title="Facebook"><img src="images/icons/face.png" alt="" /></a></li>
+    <li><a href="https://x.com/paradizbiryani" target="_blank" data-toggle="tooltip" data-placement="left" title="X"><img src="images/icons/twit.png" alt="" /></a></li>
+    <li><a href="https://www.linkedin.com/company/paradise-food-court" data-toggle="tooltip" target="_blank" data-placement="left" title="LinkedIn"><img src="images/icons/linked.png" alt="" /></a></li>
+    <li><a href="https://paradisefoodcourt.wordpress.com/" target="_blank" data-toggle="tooltip" data-placement="left" title="Blog"><img src="images/icons/word.png" alt="" /></a></li>
+    <li><a href="https://www.youtube.com/user/ParadiseHyderabad/videos" target="_blank" style="background-color:transparent;" data-toggle="tooltip" data-placement="left" title="Youtube">
+    	<img src="images/icons/youtube.png" alt="" />
+    </a></li>
+    <li><a href="https://www.pinterest.com/paradisehyd/boards/" target="_blank" data-toggle="tooltip" data-placement="left" title="Pinterest">
+    <img src="images/icons/pint.png" alt="" />
+    </a></li>
+    <<li><a href="https://www.flickr.com/photos/87974293@N02/" target="_blank" data-toggle="tooltip" data-placement="left" title="Flickr">
+    	<img src="images/icons/flickr.png" alt="" />
+    </a></li>-->
+    <!--<li><a href="" data-toggle="tooltip" data-placement="left" title="Foodpanda"><img src="images/icons/food_logo.png" /></a></li>
+    <li><a href="" data-toggle="tooltip" data-placement="left" title="Zomato"><img src="images/icons/zomato.png" /></a></li>-->
+    <!--li><a href="https://www.instagram.com/paradise_biryani_official/" target="_blank" data-toggle="tooltip" data-placement="left" title="Instagram">
+    	<img src="images/icons/instagram.png" alt="" />
+    </a></li-->
+</ul>
+</div>
+
+<div class="container" style="max-width:1350px;">
+	<div class="col-sm-4 pull-left">
+        <ul class="footlinks">
+            <li><p>© 2025 Paradise Food Court Pvt. Ltd. All Rights Reserved.</p></li>
+        </ul>
+    </div>
+    <div id="gstcol" class="col-sm-3">
+    	<div class="row">
+        	<!--div class="col-sm-3" style="padding:0;"><p> &nbsp;:</p></div-->
+        	<!--div class="col-sm-6" style="padding:0;"-->
+            <div id="gstscrol">
+            	<p>Telangana GSTIN: 36AAHCP6142N1ZZ</p>
+                <p>Andhra Pradesh GSTIN: 37AAHCP6142N1ZX</p>
+                <p>Karnataka GSTIN: 29AAHCP6142N1ZU</p>
+                <p>Tamilnadu GSTIN: 33AAHCP6142N1Z5</p>
+                <p>Haryana GSTIN: 06AAHCP6142NIZ2</p>
+            </div>
+            <!--/div-->
+        </div>
+    </div>
+    <div class="col-sm-4">
+        <ul class="list-group footlinks pull-right">
+            <li><a href="sitemap1.html">Quick Links</a></li>
+            <li><a href="privacy-policy.html">Privacy Policy</a></li>
+            <li><a href="terms-and-conditions-paradise.html">Terms and Conditions</a></li>
+        </ul>
+    </div>
+</div>
+</div>
+</footer>
+
+<ul class="social pull-right">
+	<li><a href="https://www.instagram.com/paradise_biryani_official/" target="_blank" data-toggle="tooltip" data-placement="left" title="Instagram">
+    	<img src="images/icons/instagram.png" alt="" />
+    </a></li>
+    <li><a href="https://www.facebook.com/ParadiseFoodCourt" target="_blank" data-toggle="tooltip" data-placement="left" title="Facebook"><img src="images/icons/face.png" alt="" /></a></li>
+    <li><a href="https://x.com/paradizbiryani" target="_blank" data-toggle="tooltip" data-placement="left" title="X"><img src="images/icons/twit.png" alt="" /></a></li>
+    <li><a href="https://www.linkedin.com/company/paradise-food-court" data-toggle="tooltip" target="_blank" data-placement="left" title="LinkedIn"><img src="images/icons/linked.png" alt="" /></a></li>
+    <li><a href="https://paradisefoodcourt.wordpress.com/" target="_blank" data-toggle="tooltip" data-placement="left" title="Blog"><img src="images/icons/word.png" alt="" /></a></li>
+    <li><a href="https://www.youtube.com/user/ParadiseHyderabad/videos" target="_blank" style="background-color:transparent;" data-toggle="tooltip" data-placement="left" title="Youtube">
+    	<img src="images/icons/youtube.png" alt="" />
+    </a></li>   
+    <!--li><a href="#" data-toggle="modal" data-target="#myModal" fdprocessedid="fn2lu" style="background-color:transparent;" data-toggle="tooltip" data-placement="bottom" title="Click here to know how we make the World's Favourite Biryani">
+    	<img src="images/icons/play.png" alt="" />
+    </a></li-->  
+    <li><a href="https://www.pinterest.com/paradisehyd/boards/" target="_blank" data-toggle="tooltip" data-placement="left" title="Pinterest">
+    <img src="images/icons/pint.png" alt="" />
+    </a></li>
+    <!--<li><a href="https://www.flickr.com/photos/87974293@N02/" target="_blank" data-toggle="tooltip" data-placement="left" title="Flickr">
+    	<img src="images/icons/flickr.png" alt="" />
+    </a></li>-->
+    <!--<li><a href="" data-toggle="tooltip" data-placement="left" title="Foodpanda"><img src="images/icons/food_logo.png" /></a></li>
+    <li><a href="" data-toggle="tooltip" data-placement="left" title="Zomato"><img src="images/icons/zomato.png" /></a></li>-->
+</ul>
+
+<!--div class="map_pop offer_pop">
+<a href="dilsethankyou.html">
+	<div class="google_map_wrap">
+		<button class="map_close_btn">
+				<i class="glyphicon glyphicon-remove-circle"></i>
+		</button>
+		
+		<img style="width:100%;z-index:9999999;" src="images/free_biryani_popup.jpg"></img>
+		
+	</div>
+	</a>
+	<div class="layer_pop_btn"></div>
+</div-->
+
+<div class="map_pop locat_pop">
+	<div class="google_map_wrap">
+		<button class="map_close_btn">
+				<i class="glyphicon glyphicon-remove-circle"></i>
+		</button>
+
+		<div class="row main_loc">
+			<div class="col-sm-2">
+				<ul class="loc_list">
+					<h3>Hyderabad</h3>
+
+					<li><a href="restaurants-in-hyderabad.html">Secunderabad</a></li>
+					<li><a href="takeaway-in-banjara-hills.html">Masab Tank (Cloud Kitchen)</a></li>
+					<li><a href="restaurents-in-hitec-city.html">Hitec City</a></li>              
+					<li><a href="ntr-gardens.html">Imax</a></li>                    
+					<li><a href="restaurants-in-kukatpally-loacation.html">Kukatpally</a></li>
+					<li><a href="restaurants-in-begumpet.html">Begumpet</a></li>
+					
+					<li><a href="restaurants-in-himayat-nagar.html">Himayatnagar</a></li>
+					<li><a href="restaurants-in-gachibowli.html">Gachibowli</a></li>
+					<li><a href="restaurants-near-madhapur.html">Madhapur</a></li>
+					
+					<li><a href="inorbit-mall.html">Inorbit Mall</a></li>
+					<li><a href="restaurents-in-bhel.html">BHEL</a></li>
+					<li><a href="restaurents-in-shamshabad.html">Shamshabad</a></li>
+					<li><a href="takeaway-in-sr-nagar.html">SR Nagar (Cloud Kitchen)</a></li>
+                    <li><a href="best-restaurants-near-Gudimalkapur.html">Gudimalkapur</a></li>
+                    <li><a href="best-restaurants-near-Pragati Nagar.html">Pragati Nagar</a></li> 
+                    <li><a href="best-restaurants-near-Rampally.html">Rampally</a></li> 
+                    <li><a href="best-restaurants-near-muthangi.html">Muthangi</a></li>
+                  </ul>
+			</div>
+			<div class="col-sm-2">
+				<ul class="loc_list" style="padding-top:30px;">
+					<li><a href="restaurants-in-charminar.html">Charminar</a></li>
+                    <li><a href="restaurants-in-jubilee-hills.html">Jubilee Hills</a></li>
+                    <li><a href="restaurants-in-vanasthalipuram.html">Vanasthalipuram</a></li>
+                    <li><a href="restaurants-in-kompally.html">Kompally </a></li>
+                    <li><a href="restaurants-in-sarath-city.html">Sarath City Mall - Food Court</a></li>
+                    <li><a href="restaurants-in-manikonda.html">Manikonda</a></li>
+                    <li><a href="restaurants-in-malkajgiri.html">Malkajgiri</a></li>
+                    <li><a href="restaurants-in-sarath-city-mall-gachibowli.html">Sarath City Mall - Ground Floor</a></li>
+					<li><a href="best-restaurants-near-bowenpally.html">Bowenpally</a></li>
+					<li><a href="best-restaurants-near-Lingampally.html">Lingampally</a></li> 
+                    <li><a href="best-restaurants-near-Sun City.html">Sun City</a></li>
+					<li><a href="best-restaurants-near-padmaraonagar.html">Padmarao Nagar</a></li> 
+				</ul>
+			</div>
+
+			<div class="col-sm-4">
+				<ul class="loc_list">
+					<h3>Bengaluru</h3>
+
+					<li><a href="restaurants-in-bengaluru.html">Indiranagar</a></li>
+					<!--<li><a href="koramangala-restaurants.html">Koramangala</a></li>-->
+					<!-- <li><a href="restaurants-in-new-bel-road.html">New BEL Road</a></li> -->
+					<li><a href="jp-nagar-restaurants.html">J.P Nagar</a></li>
+					<li><a href="restaurants-in-electronic-city.html">Electronic City</a></li>
+                    
+					<li><a href="hsr-restaurants.html">HSR Layout</a></li>
+					<li><a href="marathahalli-restaurants.html">Marathahalli</a></li> 
+					<li><a href="best-restaurants-near-Battarahalli(Cloud Kitchen).html">Battarahalli(Cloud Kitchen)</a></li> 
+					<li><a href="best-restaurants-near-Dasarahalli(Cloud Kitchen).html">Dasarahalli(Cloud Kitchen)</a></li> 
+                    <li><a href="best-restaurants-near-Diamond District.html">Diamond District</a></li> 
+                    <li><a href="best-restaurants-near-Kasavanahalli.html">Kasavanahalli</a></li>  
+					<!--<li><a href="restaurants-in-kalyan-nagar.html">Kalyan Nagar</a></li>-->
+					<!-- <li><a href="restaurants-in-sarjapur.html">Sarjapur <span style="font-size:12px;"> (Delivery Only)</span></a></li> -->
+					<!-- <li><a href="restaurants-in-koramangala.html">Koramangala</a></li>-->
+				</ul>     
+                
+                <ul class="loc_list">
+					<h3>Andhra Pradesh</h3>
+                    <li><a href="restaurants-in-vizag.html">VIP Road</a></li>
+					
+					<li><a href="best-restaurants-near-NAD-Vizag.html">NAD Vizag</a></li>
+					<li><a href="best-restaurants-near-Beach Road.html">Beach Road</a></li>
+                    <li><a href="restaurants-in-kurnool.html">Kurnool</a></li>
+                    <li><a href="restaurants-in-rajamahendravaram.html">Rajahmundry</a></li>
+					<li><a href="best-restaurants-near-Nellore.html">Nellore</a></li>
+                    <li><a href="restaurants-in-vijayawada.html">Benz cirle</a></li>
+                    <li><a href="best-restaurants-near-Tadepalli.html">Tadepalli</a></li>
+				</ul> 
+			 </div>
+
+			 <div class="col-sm-4">
+				<ul class="loc_list">
+					<h3>Chennai</h3>
+
+					<li><a href="restaurants-in-chennai.html">OMR</a></li>
+					<li><a href="restaurants-in-lb-road.html">LB Road</a></li>
+					<li><a href="restaurents-in-porur.html">Porur</a></li>
+					<li><a href="restaurents-in-kattupakkam.html">Kattupakkam</a></li>
+					<li><a href="tnagar-restaurants.html">T Nagar</a></li>
+                    <li><a href="best-restaurants-near-mogappair.html">Mogappair</a></li>
+                        <li><a href="best-restaurants-near-sholinganallur.html">Sholinganallur</a></li>
+				</ul>
+
+				<ul class="loc_list">
+					<h3>Gurugram</h3>
+
+					<!--<li><a href="sector-29-gurugram.html">Sector 29</a></li>-->
+                    <li><a href="best-restaurants-near-MG Road(Cloud Kitchen).html">MG Road(Cloud Kitchen)</a></li> 
+					<li><a href="sector-14-gurugram.html">Sector 14</a></li>
+					<!--<li><a href="restaurants-in-mg-road.html">M G Road</a></li>-->
+				</ul>
+
+                <ul class="loc_list">
+					<h3>Telangana</h3>
+                    <li><a href="restaurants-in-hanamkonda.html">Hanamkonda</a></li>
+					
+					<li><a href="restaurants-in-warangal.html">Warangal</a></li>
+                    
+				</ul> 
+			</div>
+		</div>
+	</div>
+	
+	<div class="layer_pop_btn"></div>
+</div>
+<!-- Responsive Menu -->
+<div class="reps-menu">
+    <ul>
+        <li><a href="https://www.paradisefoodcourt.in/">Home</a></li>
+        <li><a href="https://www.paradisefoodcourt.in/haleem-in-hyderabad.html" target="_blank">ORDER HALEEM</a></li>
+        
+                <!--<li><a href="kebabs.html">Kebabs</a></li>-->
+                <!--<li><a href="veg-fiesta.html"><strong>Veg Fiesta</strong></a></li>-->
+                <!--<li><a href="kebabs.html"><strong>Kebabs</strong></a></li>-->
+        <!--<li><a href="unlimited-biryani.html">Unlimited Biryani</a></li>-->
+                
+        <li><a href="" >ABOUT US</a>
+    <ul class="">
+                <li><a href="aboutus.html">Corporate Profile </a></li>
+                <li><a href="history.html">History </a></li>
+                <li><a href="philosophy.html">Philosophy </a></li>
+                <li><a href="values.html">Values </a></li>
+                <!--<li><a href="investors.html">Investors </a></li>
+                <li><a href="board-of-directors.html">Board of Directors </a></li>
+                <li><a href="management.html">Management Team </a></li>-->
+                <!--li><a href="future-plans.html">Future plans</a></li-->
+            </ul>
+        </li>
+        <li><a href="">LOCATIONS</a></li>
+        <li><a href="">HYDERABAD</a>
+            <ul class="">                    
+             <li><a href="restaurants-in-hyderabad.html">Secunderabad</a></li>
+			 <li><a href="takeaway-in-banjara-hills.html">Masab Tank (Cloud Kitchen)</a></li>
+			 <li><a href="restaurents-in-hitec-city.html">Hitec City</a></li>              
+			 <li><a href="ntr-gardens.html">Imax</a></li>                    
+			 <li><a href="restaurants-in-kukatpally-loacation.html">Kukatpally</a></li>
+			 <li><a href="restaurants-in-begumpet.html">Begumpet</a></li>
+			 
+			 <li><a href="restaurants-in-himayat-nagar.html">Himayatnagar</a></li>
+			 <li><a href="restaurants-in-gachibowli.html">Gachibowli</a></li>
+			 <li><a href="restaurants-near-madhapur.html">Madhapur</a></li>
+			 
+			 <li><a href="inorbit-mall.html">Inorbit Mall</a></li>
+			 <li><a href="restaurents-in-bhel.html">BHEL</a></li>
+			 <li><a href="restaurents-in-shamshabad.html">Shamshabad</a></li>
+			 <li><a href="takeaway-in-sr-nagar.html">SR Nagar (Cloud Kitchen)</a></li>
+			 <li><a href="best-restaurants-near-Gudimalkapur.html">Gudimalkapur</a></li>
+			 <li><a href="best-restaurants-near-Pragati Nagar.html">Pragati Nagar</a></li> 
+			 <li><a href="best-restaurants-near-Rampally.html">Rampally</a></li> 
+			 <li><a href="restaurants-in-charminar.html">Charminar</a></li>
+			<li><a href="restaurants-in-jubilee-hills.html">Jubilee Hills</a></li>
+			<li><a href="restaurants-in-vanasthalipuram.html">Vanasthalipuram</a></li>
+			<li><a href="restaurants-in-kompally.html">Kompally </a></li>
+			<li><a href="restaurants-in-sarath-city.html">Sarath City Mall - Food Court</a></li>
+			<li><a href="restaurants-in-manikonda.html">Manikonda</a></li>
+			<li><a href="restaurants-in-malkajgiri.html">Malkajgiri</a></li>
+			<li><a href="restaurants-in-sarath-city-mall-gachibowli.html">Sarath City Mall - Ground Floor</a></li>
+			<li><a href="best-restaurants-near-bowenpally.html">Bowenpally</a></li>
+			<li><a href="best-restaurants-near-Lingampally.html">Lingampally</a></li> 
+			<li><a href="best-restaurants-near-Sun City.html">Sun City</a></li>
+			<li><a href="best-restaurants-near-padmaraonagar.html">Padmarao Nagar</a></li> 
+			<li><a href="best-restaurants-near-muthangi.html">Muthangi</a></li>
+            </ul>
+        </li>    
+        <li><a href="">BENGALURU</a>
+            <ul class="">                    
+             <li><a href="restaurants-in-bengaluru.html">Indiranagar</a></li>
+			 <li><a href="restaurants-in-bengaluru.html">Indiranagar</a></li>
+			 <li><a href="jp-nagar-restaurants.html">J.P Nagar</a></li>
+			 <li><a href="restaurants-in-electronic-city.html">Electronic City</a></li>
+			 
+			 <li><a href="hsr-restaurants.html">HSR Layout</a></li>
+			 <li><a href="marathahalli-restaurants.html">Marathahalli</a></li> 
+			 <li><a href="best-restaurants-near-Battarahalli(Cloud Kitchen).html">Battarahalli(Cloud Kitchen)</a></li> 
+			 <li><a href="best-restaurants-near-Dasarahalli(Cloud Kitchen).html">Dasarahalli(Cloud Kitchen)</a></li> 
+			 <li><a href="best-restaurants-near-Diamond District.html">Diamond District</a></li> 
+			 <li><a href="best-restaurants-near-Kasavanahalli.html">Kasavanahalli</a></li>  
+    
+             <!-- <li><a href="restaurants-in-sarjapur.html">Sarjapur (Delivery Only)</a></li> -->
+            </ul>
+        </li>  
+    
+        <li><a href="">Andhra Pradesh</a>
+             <ul class="">                    
+				<li><a href="restaurants-in-vizag.html">VIP Road</a></li>
+				
+				<li><a href="best-restaurants-near-NAD-Vizag.html">NAD Vizag</a></li>
+				<li><a href="best-restaurants-near-Beach Road.html">Beach Road</a></li>
+				<li><a href="restaurants-in-kurnool.html">Kurnool</a></li>
+				<li><a href="restaurants-in-rajamahendravaram.html">Rajahmundry</a></li>
+				<li><a href="best-restaurants-near-Nellore.html">Nellore</a></li>
+				<li><a href="restaurants-in-vijayawada.html">Benz cirle</a></li>
+				<li><a href="best-restaurants-near-Tadepalli.html">Tadepalli</a></li>
+             </ul>
+        </li>      
+        <li><a href="">CHENNAI</a>
+             <ul class="">                    
+				<li><a href="restaurants-in-chennai.html">OMR</a></li>
+				<li><a href="restaurants-in-lb-road.html">LB Road</a></li>
+				<li><a href="restaurents-in-porur.html">Porur</a></li>
+				<li><a href="restaurents-in-kattupakkam.html">Kattupakkam</a></li>
+				<li><a href="tnagar-restaurants.html">T Nagar</a></li>
+				<li><a href="best-restaurants-near-mogappair.html">Mogappair</a></li>
+					<li><a href="best-restaurants-near-sholinganallur.html">Sholinganallur</a></li>       
+             </ul>
+        </li>       
+        <li><a href="">GURGRAM</a>
+            <ul class="">                    
+				<li><a href="best-restaurants-near-MG Road(Cloud Kitchen).html">MG Road(Cloud Kitchen)</a></li> 
+				<li><a href="sector-14-gurugram.html">Sector 14</a></li>             
+            </ul>
+        </li>    
+        <li><a href="">Telangana</a>
+            <ul class="">                    
+				<li><a href="restaurants-in-hanamkonda.html">Hanamkonda</a></li>
+				
+				<li><a href="restaurants-in-warangal.html">Warangal</a></li>
+				
+                            
+            </ul>
+        </li>
+        <!-- <li><a href="menu.html">MENU </a></li> -->
+        <li><a href="awards.html">AWARDS </a></li>    
+        <li><a href="food-offers-in-hyderabad.html">PROMOS</a></li>
+        <li><a href="">EVENTS </a>
+            <ul class="">                	
+                <li><a href="events.html">Events</a></li>
+                <!--<li><a href="zafrani-biryani.html">Zafrani Biryani</a></li>-->
+            </ul>
+        </li>
+        <li><a href="">GALLERY </a>
+            <ul class="">
+                <li><a href="paradise-food-images.html">Food Images</a></li>
+                <li><a href="visitors.html">VIP Visitors</a></li>
+                <li><a href="restaurants-in-secunderabad.html">Restaurant Images</a></li>
+                <li><a href="videos.html">Videos</a></li>
+            </ul>
+        </li>
+        <li><a href="testimonials.html">Testimonials</a></li>
+        <!--li><a href="">Gift Certificates </a>
+            <ul class="">
+                <li><a href="corporates.html">Corporates</a></li>
+                <li><a href="retail.html">Retail</a></li>
+                <li><a href="individual.html">Individual</a></li>
+            </ul>
+        </li-->
+        <li><a href="">Media </a>
+                    <ul class="">
+                        <li><a href="press-releases.html">Press Releases</a></li>
+                        <!--li><a href="logos-download.html">Logos</a></li-->
+                        <li><a href="media-photos.html">Press Meet</a></li>
+                        <li><a href="media.html">News clippings</a></li>
+                        <li><a href="news-videos.html">News Videos</a></li>
+                        <li><a href="advertisements.html">Communication Collateral</a></li>
+                    </ul>
+                </li>
+        <li><a href="javascript:void(0)">Relationships </a>
+          <ul class="">
+                <li><a href="opportunities.html">Opportunities</a></li>
+                <!--<li><a href="partnership.html">Partnerships</a></li>-->
+                 <li><a href="franchise.html">Franchisees </a></li>
+           </ul>
+     </li>
+        <li><a href="javascript:void(0)">Careers </a>
+                    <ul class="">
+                        <li><a href="work-philosophy.html">Work Philosophy</a></li>
+                        <li><a href="careers.html">Current openings</a></li>
+                        <li><a href="careers.html">Online Application Form  </a></li>
+                    </ul>
+                </li>
+        <li><a href="javascript:void(0)">Contact Us </a>
+            <ul>
+                <li><a href="enquiry-form.html">Enquiry Form</a></li>
+                <li><a href="paradise-food-court-review.html">Feedback Form</a></li>
+                <li><a href="contact.html">Our Locations</a></li>
+                <li><a href="customer-care.html">Customer Care </a></li>
+            </ul>
+        </li>
+    </ul>
+    </div>
+
+
+
+<script src="js/slider/jquery.animate-enhanced.min.js" type="text/javascript"></script>
+<script src="js/slider/jquery.superslides.js" type="text/javascript"></script>
+<script src="js/slider/jquery.easing.1.3.js" type="text/javascript"></script>
+<script type="text/javascript">
+    $(function() {
+      $('#slides').superslides({
+        hashchange: false,
+        play: 0,
+		animation_speed: 600,
+   	 	animation_easing: 'linear',
+		animation: 'slide'
+      });
+
+    });
+  </script>
+  <script type="text/javascript">
+$(document).ready(function(e) {
+	$('.social li a').tooltip('hide');
+    $('#play-video').tooltip('hide');
+    $('#ios').tooltip('hide');
+    $('#android').tooltip('hide');
+});
+</script>
+
+<div class="modal fade" id="google_map" tabindex="-1" role="dialog">
+<div class="modal-dialog  modal-lg">
+    <div class="modal-content">
+    <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title">Hitech City, Location</h4>
+    </div>
+    <div class="modal-body">
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2691.420266367989!2d78.37857096149885!3d17.448077659835583!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bcb93dead78a073%3A0xc70973128e72f455!2sParadise%20Biryani%20%7C%20Hitech%20City!5e0!3m2!1sen!2sin!4v1736209459027!5m2!1sen!2sin" style="width:100%; height:400px;" frameborder="0" style="border:0" allowfullscreen></iframe>
+    </div>
+    <div class="modal-footer">
+        <button type="button" class="btn btn-primary" data-dismiss="modal">Close</button>
+    </div>
+    </div>
+</div>
+</div>
+
+<div id="myModal" class="modal fade" role="dialog">
+  <div class="modal-dialog" style="z-index:9999;">
+    <!-- Modal content-->
+    <div class="modal-content" style="z-index:9999;">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal">&times;</button>
+        <h4 class="modal-title" style="font-family: 'Signika', sans-serif;">How we make Paradise Biriyani</h4>
+      </div>
+      <div class="modal-body">
+        <iframe id="biriyanivideo" width="100%" height="320px" src="https://www.youtube.com/embed/nMxBximWIKo" frameborder="0" allowfullscreen></iframe>
+      </div>     
+    </div>
+</div>
+</div>
+    
+    
+
+<!--onload newly added -->
+    
+
+<!--
+  <div id="imageModal" class="modal fade imagePop" role="dialog" >
+  <div class="modal-dialog">
+     Modal content
+    <div class="modal-content">
+      <div class="closeButton">
+        <button type="button" class="close" data-dismiss="modal">&times;</button>
+      </div>
+      <div class="modal-body text-center">
+      
+        <a href="https://www.google.com/maps/search/paradise+biryani" target="_blank">
+          <img src="images/celebrating-50.jpg" class="img-responsive" alt="popup" />
+        </a>
+      </div>
+    </div>
+
+  </div>
+</div>
+-->
+
+<div class="hidden-sm hidden-md hidden-lg app-sec">
+    <div class="row">
+        <div class="col-xs-4" style="padding: 0;">
+            <img src="images/order-now.png" border="0" alt="swiggy" class="img-responsive">
+        </div>
+
+        <div class="col-xs-8" style="padding: 0;">
+            <div class="app-link">
+                <a href="https://zomato.onelink.me/xqzv/rmbcgmtf" target="_blank">
+                    <img src="images/zomato.png" border="0" alt="zomato" class="img-responsive"></a>
+
+                <a href="https://swiggy-direct.onelink.me/Gw8X/6wm3ufcu" target="_blank">
+                    <img src="images/swiggy-i.png" border="0" alt="swiggy" class="img-responsive"></a>
+
+
+                <a href="http://onelink.to/paradisebiryani" target="_blank">
+                    <img src="images/Paradise-APP.png" border="0" alt="Paradise APP" class="img-responsive"></a>
+            </div>
+        </div>
+
+    </div>
+</div>
+
+<script type="text/javascript">
+$(document).ready(function(){
+    /* Get iframe src attribute value i.e. YouTube video url
+    and store it in a variable */
+    var url = $("#biriyanivideo").attr('src');
+    
+    /* Assign empty url value to the iframe src attribute when
+    modal hide, which stop the video playing */
+    $("#myModal").on('hide.bs.modal', function(){
+        $("#biriyanivideo").attr('src', '');
+    });
+    
+    /* Assign the initially stored url back to the iframe src
+    attribute when modal is displayed again */
+    $("#myModal").on('show.bs.modal', function(){
+        $("#biriyanivideo").attr('src', url);
+    });
+});
+</script>
+<script>
+$(document).ready(function(e) {
+	$('#gstscrol').bxSlider({
+	pager: false,
+	auto: true,
+	mode: 'horizontal',
+	speed:600,
+	pause: 8000
+});
+});
+</script>
+<script type="text/javascript">
+  $(document).ready(function(){       
+   // $('#imageModal').modal('show');
+    setTimeout(function() {
+   $('#imageModal').modal({
+        show: 'show',
+        backdrop: 'static',
+        keyboard: false  // to prevent closing with Esc button (if you want this too)
+    });
+ }, 3000);
+ 
+ /*
+ $('.offer_pop').fadeIn({
+	queue: false,
+	duration: 300
+ });
+ */
+ $('.google_map_wrap').addClass('google_map_wrap_animin');
+	// Show/Hide Tabs
+	//$('#google_map_frame').attr('src', currentAttrValue);
+ }); 
+ 
+ $('.map_close_btn, .layer_pop_btn').on('click', function(e) {
+    e.preventDefault();
+	$('#google_map_frame').attr('src', '');
+	$('.goog_pop_map, .offer_pop').fadeOut({
+		queue: false,
+		duration: 300
+	});
+	$('.google_map_wrap').removeClass('google_map_wrap_animin');
+});
+
+
+
+
+$('#play-video').on('click', function(e){
+  e.preventDefault();
+  $('#video-overlay').addClass('open');
+  $("#video-overlay").append('<iframe width="560" height="315" src="https://www.youtube.com/embed/nMxBximWIKo" frameborder="0" allowfullscreen></iframe>');
+});
+
+$('.video-overlay, .video-overlay-close').on('click', function(e){
+  e.preventDefault();
+  close_video();
+});
+
+$(document).keyup(function(e){
+  if(e.keyCode === 27) { close_video(); }
+});
+
+function close_video() {
+  $('.video-overlay.open').removeClass('open').find('iframe').remove();
+};
+
+
+const banners = document.querySelectorAll('.slides');
+    let currentIndex = 0;
+    console.log(banners);
+    function showBanner(index) {
+        banners.forEach((banner, i) => {
+            banner.style.display = i === index ? 'block' : 'none';
+        });
+    }
+
+    function nextBanner() {
+        currentIndex = (currentIndex + 1) % banners.length;
+        showBanner(currentIndex);
+    }
+
+    // Show the first banner
+    showBanner(currentIndex);
+
+    // Change banner every 10 seconds
+    setInterval(nextBanner, 5000);
+</script>
+</body>
+</html>

@@ -1,0 +1,69 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+model User {
+  id           String        @id @default(cuid())
+  email        String        @unique
+  password     String
+  name         String
+  role         String        @default("USER")
+  createdAt    DateTime      @default(now())
+  updatedAt    DateTime      @updatedAt
+  reservations Reservation[]
+}
+
+model Restaurant {
+  id           String        @id @default(cuid())
+  name         String
+  description  String
+  address      String
+  city         String
+  cuisine      String
+  imageUrl     String?
+  logoUrl      String?
+  openingTime  String        @default("11:00")
+  closingTime  String        @default("22:00")
+  capacity     Int           @default(50)
+  createdAt    DateTime      @default(now())
+  updatedAt    DateTime      @updatedAt
+  menuItems    MenuItem[]
+  reservations Reservation[]
+}
+
+model MenuItem {
+  id           String     @id @default(cuid())
+  name         String
+  description  String
+  price        Float
+  category     String
+  imageUrl     String?
+  isAvailable  Boolean    @default(true)
+  restaurantId String
+  restaurant   Restaurant @relation(fields: [restaurantId], references: [id], onDelete: Cascade)
+  createdAt    DateTime   @default(now())
+  updatedAt    DateTime   @updatedAt
+}
+
+model Reservation {
+  id              String     @id @default(cuid())
+  date            DateTime
+  time            String
+  partySize       Int
+  status          String     @default("PENDING")
+  specialRequests String?
+  depositAmount   Float      @default(0)
+  paymentStatus   String     @default("UNPAID")
+  paymentId       String?
+  userId          String
+  restaurantId    String
+  user            User       @relation(fields: [userId], references: [id], onDelete: Cascade)
+  restaurant      Restaurant @relation(fields: [restaurantId], references: [id], onDelete: Cascade)
+  createdAt       DateTime   @default(now())
+  updatedAt       DateTime   @updatedAt
+}
